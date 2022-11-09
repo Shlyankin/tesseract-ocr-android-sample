@@ -27,7 +27,7 @@ public class TextRecognitionHelper {
 
 	private static final String TESSERACT_TRAINED_DATA_FOLDER = "tessdata";
 	private static final String TESSERACT_PATH = Environment.getExternalStorageDirectory()
-			.getAbsolutePath() + "/tess_ocr_example/";
+			.getPath() + "/tess_ocr_example/";
 
 	private final Context applicationContext;
 	private final TessBaseAPI tessBaseApi;

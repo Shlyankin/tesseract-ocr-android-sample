@@ -106,6 +106,8 @@ public class CameraView extends SurfaceView implements Camera.PreviewCallback, S
 		ocrThread.updateBitmap(mBackBuffer);
 	}
 
+
+
 	@Override
 	public void surfaceCreated(final SurfaceHolder surfaceHolder) {
 		try {

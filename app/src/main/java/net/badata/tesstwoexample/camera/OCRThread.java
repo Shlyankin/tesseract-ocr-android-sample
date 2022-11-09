@@ -82,7 +82,7 @@ public class OCRThread extends Thread {
 	 */
 	@Override
 	public void run() {
-		textRecognitionHelper.prepareTesseract("ukr");
+		textRecognitionHelper.prepareTesseract("rus");
 		while (runFlag) {
 			if (bitmapChanged.compareAndSet(true, false)) {
 				Matrix matrix = new Matrix();
