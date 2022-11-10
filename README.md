@@ -1,5 +1,7 @@
 # How to use?
 
+[Sample apk](https://github.com/Shlyankin/tesseract-ocr-android-sample/blob/6cff71f93de7a1d49586836bb2fd8d7d7b332b80/app-release.apk)
+
 1) Focus image by click on the preview view
 2) Click "OCR" button
 3) Wait dialog window (about 5-10 sec)
