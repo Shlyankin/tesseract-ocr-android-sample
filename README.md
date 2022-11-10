@@ -1,3 +1,11 @@
+# How to use?
+
+1) Focus image by click on the preview view
+2) Click "OCR" button
+3) Wait dialog window (about 5-10 sec)
+
+Also you can enable "show text bounds" options in toolbar menu
+
 # Fork Info
 
 Changes:
